@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\bin\Debug\net8.0\uri1002.exe
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\bin\Debug\net8.0\uri1002.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\bin\Debug\net8.0\uri1002.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\bin\Debug\net8.0\uri1002.dll
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\bin\Debug\net8.0\uri1002.pdb
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.dll
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\refint\uri1002.dll
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.pdb
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\uri1002.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1002\obj\Debug\net8.0\ref\uri1002.dll
