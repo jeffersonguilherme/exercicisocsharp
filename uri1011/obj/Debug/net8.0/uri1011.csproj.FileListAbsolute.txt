@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\bin\Debug\net8.0\uri1011.exe
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\bin\Debug\net8.0\uri1011.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\bin\Debug\net8.0\uri1011.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\bin\Debug\net8.0\uri1011.dll
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\bin\Debug\net8.0\uri1011.pdb
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.dll
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\refint\uri1011.dll
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.pdb
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\uri1011.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\exercicisocsharp\uri1011\obj\Debug\net8.0\ref\uri1011.dll
